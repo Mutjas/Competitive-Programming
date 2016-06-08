@@ -8,9 +8,9 @@
 
 CodeForces
 ========
-| # | Title | Solution |
-|---| ----- | -------- |
-|1|[Watermelon](http://codeforces.com/problemset/problem/4/A)| [C++](./P1A/CF4-D2-A.cpp)
+| # | Title | Solution || # | Title | Solution |
+|---| ----- | -------- ||---| ----- | -------- |	
+|1|[Watermelon](http://codeforces.com/problemset/problem/4/A)| [C++](./P1A/CF4-D2-A.cpp) |1|[Watermelon](http://codeforces.com/problemset/problem/4/A)| [C++](./P1A/CF4-D2-A.cpp)
 |2|[Way Too Long Words](http://codeforces.com/problemset/problem/71/A)| [C++](./P1A/CF71-D2-A.cpp)
 |3|[String Task](http://codeforces.com/problemset/problem/118/A)| [C++](./P1A/CF118-D2-A.cpp)
 |4|[Petya and Strings](http://codeforces.com/problemset/problem/112/A)| [C++](./P1A/CF112-D2-A.cpp)
